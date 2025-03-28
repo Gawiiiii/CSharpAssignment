@@ -1,0 +1,10 @@
+D:\code\CSharpAssignment\Assignment6\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+D:\code\CSharpAssignment\Assignment6\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+D:\code\CSharpAssignment\Assignment6\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+D:\code\CSharpAssignment\Assignment6\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+D:\code\CSharpAssignment\Assignment6\WindowsFormsApp\obj\Debug\WindowsFormsApp1.MainForm.resources
+D:\code\CSharpAssignment\Assignment6\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+D:\code\CSharpAssignment\Assignment6\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+D:\code\CSharpAssignment\Assignment6\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\code\CSharpAssignment\Assignment6\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+D:\code\CSharpAssignment\Assignment6\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
